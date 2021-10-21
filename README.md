@@ -1,7 +1,3 @@
----
-typora-copy-images-to: 图片
----
-
 # 判断推理
 
 ## 逻辑判断
@@ -20,25 +16,25 @@ typora-copy-images-to: 图片
 
   故正确答案为A。
 
-<img src="C:\Users\xuna\Desktop\gk\图片\image-20211014170341695.png" alt="image-20211014170341695" style="zoom:67%;" />
+<img src="image\image-20211014170341695.png" alt="image-20211014170341695" style="zoom:67%;" />
 
 -  C 医药费用增长过快，不是必要条件，能加强，补充论据
 
 -  **D  假如有医保了，就分担了80%，就没有了负担了。没他不行。**
 
-<img src="C:\Users\xuna\AppData\Roaming\Typora\typora-user-images\image-20211014171603462.png" alt="image-20211014171603462" style="zoom: 50%;" />
+<img src="image\image-20211014171603462.png" alt="image-20211014171603462" style="zoom: 50%;" />
 
 提高计程车收入。
 
-<img src="C:\Users\xuna\AppData\Roaming\Typora\typora-user-images\image-20211014171742130.png" alt="image-20211014171742130" style="zoom:50%;" />
+<img src="image\image-20211014171742130.png" alt="image-20211014171742130" style="zoom:50%;" />
 
 B项：上述8位员工在离职后的两年内只能从事饮品行业的工作，如果这些员工可以从事别的类型的工作，那么就不会失去就业机会，因此该项是题干结论能够成立的必要条件，可以加强，当选
 
-<img src="C:\Users\xuna\AppData\Roaming\Typora\typora-user-images\image-20211014172347186.png" alt="image-20211014172347186" style="zoom:67%;" />
+<img src="image\image-20211014172347186.png" alt="image-20211014172347186" style="zoom:67%;" />
 
 A项：如果大陆架不会随着地球地壳的移动而持续着缓慢但永不停息的变化，那么海洋就不能由陆地转化而成，论点也就无法成立，选项为论点成立的必要条件，可以加强，当选；
 
-<img src="C:\Users\xuna\AppData\Roaming\Typora\typora-user-images\image-20211014173402744.png" alt="image-20211014173402744" style="zoom: 67%;" />
+<img src="image\image-20211014173402744.png" alt="image-20211014173402744" style="zoom: 67%;" />
 
 ​		
 
