@@ -10,7 +10,7 @@ typora-copy-images-to: 图片
 
 #### 必要条件
 
-<img src="C:\Users\xuna\Desktop\gk\图片\image-20211014163052802.png" alt="image-20211014163052802" style="zoom: 50%;" />
+<img src="image\image-20211014163052802.png" alt="image-20211014163052802" style="zoom: 50%;" />
 
 **否定代入**
 
